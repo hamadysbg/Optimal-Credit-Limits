@@ -1,0 +1,29 @@
+[PROJECT]
+
+[RP:UNTITLED_1]
+1=
+
+[RP:OPTCL]
+1=
+
+[RP:OPTSCARD]
+1=
+
+[RP:OPTCLV2]
+1=
+
+[MRUFILES]
+1=C:\Users\papadakisi\OneDrive - Dun & Bradstreet\Projects\Sunspots\optscard.gms
+2=C:\Users\papadakisi\OneDrive - Dun & Bradstreet\Projects\Sanofi\OptCL.lst
+3=C:\Users\papadakisi\OneDrive - Dun & Bradstreet\Projects\Sanofi\OptCL.gms
+4=C:\Users\papadakisi\OneDrive - Dun & Bradstreet\Projects\Sanofi\Untitled_1.gms
+
+[OPENWINDOW_1]
+FILE0=C:\Users\papadakisi\OneDrive - Dun & Bradstreet\Projects\Sanofi\OptCLv2.gms
+FILE1=C:\Users\papadakisi\OneDrive - Dun & Bradstreet\Projects\Sanofi\OptCLv2.lst
+FILE2=C:\Users\papadakisi\OneDrive - Dun & Bradstreet\Projects\Sanofi\OptCLv2.lst
+MAXIM=0
+TOP=-1
+LEFT=-3
+HEIGHT=938
+WIDTH=1039
